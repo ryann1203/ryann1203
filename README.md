@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Jiwoo's%20Github&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling" width="100%" />
 
 ## Hi, I'm Jiwoo Kim!
-<div>
+<!-- <div>
 <a href="https://www.instagram.com/jjwzoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto: oxford1203@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto: oxford1203@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-#03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.dongguk.edu/main"><img src="https://img.shields.io/badge/-DGU.univ-orange"/></a>
-</div>
+</div> -->
 
 - 🌱 Focused on building services that improve people's daily lives.</li> 
 - 🎓 Majoring in Computer Science Engineering at Dongguk University.</li> 
