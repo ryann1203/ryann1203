@@ -6,7 +6,7 @@
 - ✨ Interested in backend development and software engineering.</li>
 
 ## 🚀 Projects
-### 📊 [FedHybrid : Improving Model Performance in Federated Learning with Non-IID Data](https://github.com/FedHybrid) <br> 
+### 📊 [FedHybrid : Improving Model Performance in Federated Learning](https://github.com/FedHybrid) <br> 
 **Mar 2025 - Dec 2025 | Python, PyTorch, NumPy, Federated Learning**  
 - Improved federated learning performance by optimizing model aggregation and communication efficiency.  
 - Implemented client-weighted averaging.  
@@ -15,15 +15,15 @@
 🎉 Director Award in CO-SHOW 2025 IoT & AI Innovation Challenge  
 🎉 Excellence Award in IoT SMART Tournament (Dongguk Univ. 2025 Spring)  
 
-### 🧑‍🦯 [Voisk : Enhanced Kiosk System with Screen Reader Support for the Visually Impaired](https://github.com/CSID-DGU/2024-2-DES4025-Passengers-02) <br>
+### 🧑‍🦯 [Voisk : Enhanced Kiosk System for the Visually Impaired](https://github.com/CSID-DGU/2024-2-DES4025-Passengers-02) <br>
 **Sep 2024 - Dec 2024 | HTML, CSS, JavaScript, Java, NFC, Web**  
-- Designed a screen reader–friendly mobile kiosk ordering system, based on user research  
+- Designed a screen reader–friendly mobile kiosk ordering system, based on user research.  
 - Conducted UX research for visually impaired users.  
-📄 Patent application submitted: “Screen Reader-Based Kiosk System”  
+📝 Patent application submitted: “Screen Reader-Based Kiosk System”  
 
-### 🧀 [Say Cheese! : Facial Recognition Photo Booth Service for Fall Festival](https://github.com/Face-Pizza/cheese4cut_print) <br>
+### 🧀 [Say Cheese! : Facial Recognition Photo Booth Service](https://github.com/Face-Pizza/cheese4cut_print) <br>
 **Jul 2024 - Nov 2024 | Python, Django, SQLite**  
-- Developed backend system for real-time photo processing and printing  
+- Developed backend system for real-time photo processing and printing.  
 - Built backend using Python and Django.  
 - Implemented photo printer automation system.  
 🎉 Best Innovation Award – LIKELION Networking Event  
