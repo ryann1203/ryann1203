@@ -4,6 +4,7 @@
 - 🌱 Focused on building services that improve people's daily lives.</li> 
 - 🎓 Majoring in Computer Science Engineering at Dongguk University.</li> 
 - ✨ Interested in backend development and software engineering.</li>
+<br>
 
 ## 🚀 Projects
 ### 📊 [FedHybrid : Improving Model Performance in Federated Learning](https://github.com/FedHybrid) <br> 
@@ -28,15 +29,18 @@
 - Implemented photo printer automation system.  
 🎉 Best Innovation Award – LIKELION Networking Event
 
+<br>
+
 ## 💼 Experience
 
 **Jan 2025 - Feb 2025 | 🏦 IBK Industrial Bank of Korea – Digital Internship**  
 - Participated in a healthcare-related service improvement project.
+
 <br>
 
 ## 🫧 Studying..
-![Jiwoo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203&show_icons=true&theme=holi)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203&layout=compact&theme=holi)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203)](https://github.com/ryann1203/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203)](https://github.com/ryann1203/github-readme-stats)
 
 <!--Here are some ideas to get you started:
 
