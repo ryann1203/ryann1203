@@ -31,16 +31,29 @@
 
 <br>
 
-## 💼 Experience
+## 🏢 Experience
 
 **Jan 2025 - Feb 2025 | 🏦 IBK Industrial Bank of Korea – Digital Internship**  
-- Participated in a healthcare-related service improvement project.
+<!-- - Participated in a healthcare-related service improvement project. -->
 
 <br>
 
-## 🫧 Studying..
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203)](https://github.com/ryann1203/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203)](https://github.com/ryann1203/github-readme-stats)
+## 🫧 I'm Studying..
+
+<div align="center">
+<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oxford1203" height="150"/>
+<br><br> -->
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 <!--Here are some ideas to get you started:
 
@@ -53,3 +66,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&animation=twinkling" width="100%" />
