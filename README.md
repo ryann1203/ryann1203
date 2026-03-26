@@ -30,15 +30,13 @@
 
 ## 💼 Experience
 
-### 🏦 IBK Industrial Bank of Korea – Digital Internship  
-**Jan 2025 - Feb 2025**  
+**Jan 2025 - Feb 2025 | 🏦 IBK Industrial Bank of Korea – Digital Internship**  
 - Participated in a healthcare-related service improvement project.
+<br>
 
 ## 🫧 Studying..
-<div align="center">
-  ![Jiwoo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203&show_icons=true&theme=holi)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203&layout=compact&theme=holi)
-</div>
+![Jiwoo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203&show_icons=true&theme=holi)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203&layout=compact&theme=holi)
 
 <!--Here are some ideas to get you started:
 
