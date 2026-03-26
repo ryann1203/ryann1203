@@ -1,9 +1,17 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20Jiwoo's%20Github&fontSize=40&fontAlign=50&fontAlignY=40&animation=twinkling" width="100%" />
 
-<!--
-**ryann1203/ryann1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Jiwoo Kim!
+<div>
+<a href="https://www.instagram.com/jjwzoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="mailto: oxford1203@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.dongguk.edu/main"><img src="https://img.shields.io/badge/-DGU.univ-orange"/></a>
+</div>
 
-Here are some ideas to get you started:
+- 🌱 Focused on building services that improve people's daily lives.</li> 
+- 🎓 Majoring in Computer Science Engineering at Dongguk University.</li> 
+- ✨ Interested in backend development and software engineering.</li>
+
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
