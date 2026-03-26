@@ -26,7 +26,19 @@
 - Developed backend system for real-time photo processing and printing.  
 - Built backend using Python and Django.  
 - Implemented photo printer automation system.  
-🎉 Best Innovation Award – LIKELION Networking Event  
+🎉 Best Innovation Award – LIKELION Networking Event
+
+## 💼 Experience
+
+### 🏦 IBK Industrial Bank of Korea – Digital Internship  
+**Jan 2025 - Feb 2025**  
+- Participated in a healthcare-related service improvement project.
+
+## 🫧 Studying..
+<div align="center">
+  ![Jiwoo Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryann1203&show_icons=true&theme=holi)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryann1203&layout=compact&theme=holi)
+</div>
 
 <!--Here are some ideas to get you started:
 
