@@ -2,7 +2,7 @@
 
 ## Hi, I'm Jiwoo Kim!
 - 🌱 Focused on building services that improve people's daily lives.</li> 
-- 🎓 Majoring in Computer Science Engineering.</li> 
+- 🎓 Majoring in Computer Science Engineering at Dongguk University.</li> 
 - ✨ Interested in backend development and software engineering.</li>
 <br>
 
@@ -12,9 +12,9 @@
 - Improved federated learning performance by optimizing model aggregation and communication efficiency.  
 - Implemented client-weighted averaging.  
 - Optimized communication efficiency.  
-🎉 Best Award in IoT SMART Tournament (Univ. 2025 Fall)  
+🎉 Best Award in IoT SMART Tournament (Dongguk Univ. 2025 Fall)  
 🎉 Director Award in CO-SHOW 2025 IoT & AI Innovation Challenge  
-🎉 Excellence Award in IoT SMART Tournament (Univ. 2025 Spring)  
+🎉 Excellence Award in IoT SMART Tournament (Dongguk Univ. 2025 Spring)  
 
 ### 🧑‍🦯 [Voisk : Enhanced Kiosk System for the Visually Impaired](https://github.com/CSID-DGU/2024-2-DES4025-Passengers-02) <br>
 **Sep 2024 - Dec 2024 | HTML, CSS, JavaScript, Java, NFC, Web**  
