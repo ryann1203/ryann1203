@@ -1,72 +1,47 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Welcome%20to%20Jiwoo's%20Github&fontSize=40&fontAlign=50&fontAlignY=40" width="100%" />
 
-## Hi, I'm Jiwoo Kim!
-- 🌱 Focused on building services that improve people's daily lives.</li> 
-- 🎓 Majoring in Computer Science Engineering at Dongguk University.</li> 
-- ✨ Interested in backend development and software engineering.</li>
+## 안녕하세요! 김지우입니다.
+
+- 일상의 불편을 줄이는 서비스를 만들고자 합니다.
+- 컴퓨터공학을 전공하며 Java와 Spring Boot로 백엔드 서비스를 개발하고 운영합니다.
+- 데이터 정합성과 서비스 안정성을 중요하게 생각합니다.
+
 <br>
 
 ## 🚀 Projects
-### 📊 [FedHybrid : Improving Model Performance in Federated Learning](https://github.com/FedHybrid) <br> 
-**Mar 2025 - Dec 2025 | Python, PyTorch, NumPy, Federated Learning**  
-- Improved federated learning performance by optimizing model aggregation and communication efficiency.  
-- Implemented client-weighted averaging.  
-- Optimized communication efficiency.  
-🎉 Best Award in IoT SMART Tournament (Dongguk Univ. 2025 Fall)  
-🎉 Director Award in CO-SHOW 2025 IoT & AI Innovation Challenge  
-🎉 Excellence Award in IoT SMART Tournament (Dongguk Univ. 2025 Spring)  
 
-### 🧑‍🦯 [Voisk : Enhanced Kiosk System for the Visually Impaired](https://github.com/CSID-DGU/2024-2-DES4025-Passengers-02) <br>
-**Sep 2024 - Dec 2024 | HTML, CSS, JavaScript, Java, NFC, Web**  
-- Designed a screen reader–friendly mobile kiosk ordering system, based on user research.  
-- Conducted UX research for visually impaired users.  
-📝 Patent application submitted: “Screen Reader-Based Kiosk System”  
+### 🖼️ [DoLog · 졸업전시 아카이빙 플랫폼](https://github.com/DoLog-Team)
 
-### 🧀 [Say Cheese! : Facial Recognition Photo Booth Service](https://github.com/Face-Pizza/cheese4cut_print) <br>
-**Jul 2024 - Nov 2024 | Python, Django, SQLite**  
-- Developed backend system for real-time photo processing and printing.  
-- Built backend using Python and Django.  
-- Implemented photo printer automation system.  
-🎉 Best Innovation Award – LIKELION Networking Event
+**2025.09 ~ 현재 | 백엔드 개발·배포·운영 | Java, Spring Boot, JPA, MySQL, AWS S3**
+
+- 공동 작가를 동시에 제외할 때 작품이 전시에 남는 문제를 비관적 잠금으로 해결
+- **6개월간 누적 조회 6,500회 이상**, 활성 사용자 약 900명
+
+### 🏠 [KB HomeDeal · 부동산 거래 의사결정 플랫폼](https://github.com/KB-IT-s-Your-Life-7-Final-Project)
+
+**2026.03 ~ 2026.08 | 백엔드 개발 | Java, Spring Framework, MyBatis, MySQL, Quartz**
+
+- 약 **600만 건의 실거래 데이터**를 다루는 지도 조회에 요약 테이블과 인덱스를 적용해 타임아웃 개선
+- Quartz로 건축물 정보를 미리 수집해 외부 API 지연과 장애가 사용자 조회에 미치는 영향 감소
+
+### 📊 [FedHybrid · 기관별 데이터 불균형을 고려한 연합학습](https://github.com/FedHybrid)
+
+**2025.03 ~ 2025.12 | Python, PyTorch, Next.js**
+
+- 학습 로그·정확도 시각화와 예측 결과 다운로드를 제공하는 대시보드 구현
+- 모델 업데이트 선별·압축으로 **통신 비용 약 70~85% 절감**
 
 <br>
 
 ## 🏢 Experience
 
-**Jan 2025 - Feb 2025 | 🏦 IBK Industrial Bank of Korea – Digital Internship**  
-<!-- - Participated in a healthcare-related service improvement project. -->
+**2025.01 ~ 2025.02 | IBK기업은행 디지털 직무 인턴**
 
-<br>
-
-## 🫧 I'm Studying..
-
-<div align="center">
-<!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oxford1203" height="150"/>
-<br><br> -->
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</div>
 
 <br>
 
 ## 📨 Contact Me
 
-<p align="center">
-  <a href="mailto:oxford1203@gmail.com">
-    <img src="https://img.shields.io/badge/oxford1203@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- [포트폴리오](https://ryann1203.github.io/)
+- [oxford1203@gmail.com](mailto:oxford1203@gmail.com)
+
