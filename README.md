@@ -10,7 +10,7 @@
 
 ## 🚀 Projects
 
-### 1. [DoLog · 졸업전시 아카이빙 플랫폼](https://dolog.kr) | [Github](https://github.com/DoLog-Team)
+### 1. [DoLog · 졸업전시 아카이빙 플랫폼](https://dolog.kr/exhibitions) | [Github](https://github.com/DoLog-Team)
 
 **Sep 2025 - 현재 | 백엔드 개발·배포·운영 | Java, Spring Boot, JPA, MySQL, AWS S3**
 
