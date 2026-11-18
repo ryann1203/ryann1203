@@ -12,7 +12,7 @@
 
 ### 1. [DoLog · 졸업전시 아카이빙 플랫폼](https://github.com/DoLog-Team)
 
-**Sep 2025 ~ Now | 백엔드 개발·배포·운영 | Java, Spring Boot, JPA, MySQL, AWS S3**
+**Sep 2025 - 현재 | 백엔드 개발·배포·운영 | Java, Spring Boot, JPA, MySQL, AWS S3**
 
 - 공동 작가를 동시에 제외할 때 작품이 전시에 남는 문제를 비관적 잠금으로 해결
 - Fetch Join으로 작품과 작가 정보를 함께 조회해 쿼리 반복 문제 개선
@@ -20,7 +20,7 @@
 
 ### 2. [KB HomeDeal · 부동산 거래 의사결정 플랫폼](https://github.com/KB-IT-s-Your-Life-7-Final-Project)
 
-**Mar 2026 ~ Aug 2026 | 백엔드 개발 | Java, Spring Framework, MyBatis, MySQL, Quartz**
+**Mar 2026 - Aug 2026 | 백엔드 개발 | Java, Spring Framework, MyBatis, MySQL, Quartz**
 
 - 약 **600만 건의 실거래 데이터**를 다루는 지도 조회에 요약 테이블과 인덱스를 적용해 타임아웃 개선
 - Quartz로 건축물 정보를 미리 수집해 외부 API 지연과 장애가 사용자 조회에 미치는 영향 감소
@@ -39,13 +39,11 @@
 
 ## 🏢 Experience
 
-**2025.01 ~ 2025.02 | IBK기업은행 디지털 직무 인턴**
+**2025.01 - 2025.02 | IBK기업은행 디지털 직무 인턴**
 
 
 <br>
 
 ## 📨 Contact Me
-
-- [포트폴리오](https://ryann1203.github.io/)
 - [oxford1203@gmail.com](mailto:oxford1203@gmail.com)
 
